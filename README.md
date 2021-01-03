@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm trained as an engineer but a data scientist at heart!
+I trained as an engineer and am a data scientist!
