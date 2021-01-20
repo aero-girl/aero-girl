@@ -23,11 +23,21 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aero-girl&show_icons=true&locale=en" alt="aero-girl" /></p>
 
 <h2>Data science portfolio</h2>
+This portfolio is a compilation of work created for data analysis or for exploration of machine learning algorithms.
+There is a separate category corresponding to separate projects.
+
 <h4 align="left">Classification problems:</h4>
+Titanic: Machine Learning from Disaster
+
 <h4 align="left">Regression problems:</h4>
+Boston House Prices
+
 <h4 align="left">Natural language processing:</h4>
+
 <h4 align="left">Clustering:</h4>
+
 <h4 align="left">Data exploration and analysis:</h4>
+
 <h4 align="left">Recommendation systems.:</h4>
 
 
