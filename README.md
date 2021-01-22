@@ -31,12 +31,14 @@ Titanic: Machine Learning from Disaster
 
 <h4 align="left">Regression problems:</h4>
 Boston House Prices
+BSuOS Prediction
 
 <h4 align="left">Natural language processing:</h4>
 
 <h4 align="left">Clustering:</h4>
 
 <h4 align="left">Data exploration and analysis:</h4>
+WiD Covid-19
 
 <h4 align="left">Recommendation systems.:</h4>
 
