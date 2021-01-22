@@ -32,6 +32,8 @@ Titanic: Machine Learning from Disaster
 <h4 align="left">Regression problems:</h4>
 Boston House Prices
 BSuOS Prediction
+[I'm a relative reference to a repository file](https://github.com/aero-girl/myProjects/tree/main/BSuOS%20Prediction, "Google's Homepage")
+
 
 <h4 align="left">Natural language processing:</h4>
 
