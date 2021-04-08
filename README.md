@@ -32,8 +32,8 @@ Pima Indians Diabetes (https://github.com/aero-girl/myProjects/tree/main/Pima%20
 Titanic: Machine Learning from Disaster - WiP
 
 <h4 align="left">Regression problems:</h4>
-[Boston House Prices](https://github.com/aero-girl/myProjects/tree/main/Boston%20Housing%20Price)
 
+[Boston House Prices](https://github.com/aero-girl/myProjects/tree/main/Boston%20Housing%20Price)
 
 [BSuOS Prediction](https://github.com/aero-girl/myProjects/tree/main/BSuOS%20Prediction)
 
@@ -42,8 +42,8 @@ Titanic: Machine Learning from Disaster - WiP
 <h4 align="left">Clustering:</h4>
 
 <h4 align="left">Data exploration and analysis:</h4>
-[WiD Covid-19] (https://github.com/aero-girl/myProjects/tree/main/WiD%20Covid-19%20Hackathon)
 
+[WiD Covid-19](https://github.com/aero-girl/myProjects/tree/main/WiD%20Covid-19%20Hackathon)
 <h4 align="left">Recommendation systems.:</h4>
 
 
