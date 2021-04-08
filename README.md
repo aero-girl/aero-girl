@@ -27,10 +27,12 @@ This portfolio is a compilation of work created for data analysis or for explora
 There is a separate category corresponding to separate projects.
 
 <h4 align="left">Classification problems:</h4>
-Titanic: Machine Learning from Disaster
+Pima Indians Diabetes (https://github.com/aero-girl/myProjects/tree/main/Pima%20Indians%20Diabetes)
+
+Titanic: Machine Learning from Disaster - WiP
 
 <h4 align="left">Regression problems:</h4>
-Boston House Prices
+[Boston House Prices](https://github.com/aero-girl/myProjects/tree/main/Boston%20Housing%20Price)
 
 
 [BSuOS Prediction](https://github.com/aero-girl/myProjects/tree/main/BSuOS%20Prediction)
@@ -40,7 +42,7 @@ Boston House Prices
 <h4 align="left">Clustering:</h4>
 
 <h4 align="left">Data exploration and analysis:</h4>
-WiD Covid-19
+[WiD Covid-19] (https://github.com/aero-girl/myProjects/tree/main/WiD%20Covid-19%20Hackathon)
 
 <h4 align="left">Recommendation systems.:</h4>
 
