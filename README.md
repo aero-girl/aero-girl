@@ -30,8 +30,7 @@ There is a separate category corresponding to separate projects.
 
 [Pima Indians Diabetes](https://github.com/aero-girl/myProjects/tree/main/Pima%20Indians%20Diabetes)
 
-
-Titanic: Machine Learning from Disaster - WiP
+[Titanic: Machine Learning from Disaster](https://github.com/aero-girl/myProjects/tree/main/Titanic)
 
 <h4 align="left">Regression problems:</h4>
 
