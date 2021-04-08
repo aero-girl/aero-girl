@@ -27,7 +27,9 @@ This portfolio is a compilation of work created for data analysis or for explora
 There is a separate category corresponding to separate projects.
 
 <h4 align="left">Classification problems:</h4>
-Pima Indians Diabetes (https://github.com/aero-girl/myProjects/tree/main/Pima%20Indians%20Diabetes)
+
+[Pima Indians Diabetes](https://github.com/aero-girl/myProjects/tree/main/Pima%20Indians%20Diabetes)
+
 
 Titanic: Machine Learning from Disaster - WiP
 
