@@ -32,6 +32,8 @@ There is a separate category corresponding to separate projects.
 
 [Titanic: Machine Learning from Disaster](https://github.com/aero-girl/myProjects/tree/main/Titanic)
 
+[Credit Card Fraud Detection](https://github.com/aero-girl/myProjects/tree/main/Fraud%20Detection)
+
 <h4 align="left">Regression problems:</h4>
 
 [Boston House Prices](https://github.com/aero-girl/myProjects/tree/main/Boston%20Housing%20Price)
