@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aero-girl&label=Profile%20views&color=0e75b6&style=flat" alt="aero-girl" /> </p>
 
-- 🔭 I’m currently working on [HuBMAP - Hacking the Kidney](https://www.kaggle.com/c/hubmap-kidney-segmentation)
-
-- 🌱 I’m currently learning **Pytorch, Scala**
-
 - 📫 How to reach me **gavi.sr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
